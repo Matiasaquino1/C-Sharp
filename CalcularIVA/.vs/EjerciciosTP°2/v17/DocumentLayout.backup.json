@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Curso-UTN\\TP\u00B02AquinoMat\u00EDas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC1368C-5AC0-42DF-A049-57BE411C2BB6}|EjerciciosTP\u00B02.csproj|d:\\curso-utn\\tp\u00B02aquinomat\u00EDas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC1368C-5AC0-42DF-A049-57BE411C2BB6}|EjerciciosTP\u00B02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC1368C-5AC0-42DF-A049-57BE411C2BB6}|EjerciciosTP\u00B02.csproj|d:\\curso-utn\\tp\u00B02aquinomat\u00EDas\\ejerciciostp\u00B02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FC1368C-5AC0-42DF-A049-57BE411C2BB6}|EjerciciosTP\u00B02.csproj|solutionrelative:ejerciciostp\u00B02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EjerciciosTP\u00B02.csproj",
+              "DocumentMoniker": "D:\\Curso-UTN\\TP\u00B02AquinoMat\u00EDas\\EjerciciosTP\u00B02.csproj",
+              "RelativeDocumentMoniker": "EjerciciosTP\u00B02.csproj",
+              "ToolTip": "D:\\Curso-UTN\\TP\u00B02AquinoMat\u00EDas\\EjerciciosTP\u00B02.csproj",
+              "RelativeToolTip": "EjerciciosTP\u00B02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T22:02:43.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Curso-UTN\\TP\u00B02AquinoMat\u00EDas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Curso-UTN\\TP\u00B02AquinoMat\u00EDas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:01:20.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
