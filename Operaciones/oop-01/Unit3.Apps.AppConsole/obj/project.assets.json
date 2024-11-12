@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Unit3.Core.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Unit3.Core.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unit3.Core.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unit3.Core.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Unit3.Core.Entities/Unit3.Core.Entities.csproj",
+      "msbuildProject": "../Unit3.Core.Entities/Unit3.Core.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Unit3.Core.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Curso-UTN\\course-dotnet\\Unit3\\oop-01\\Unit3.Apps.AppConsole\\Unit3.Apps.AppConsole.csproj",
+      "projectName": "Unit3.Apps.AppConsole",
+      "projectPath": "D:\\Curso-UTN\\course-dotnet\\Unit3\\oop-01\\Unit3.Apps.AppConsole\\Unit3.Apps.AppConsole.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "D:\\Curso-UTN\\course-dotnet\\Unit3\\oop-01\\Unit3.Apps.AppConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Curso-UTN\\course-dotnet\\Unit3\\oop-01\\Unit3.Core.Entities\\Unit3.Core.Entities.csproj": {
+              "projectPath": "D:\\Curso-UTN\\course-dotnet\\Unit3\\oop-01\\Unit3.Core.Entities\\Unit3.Core.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

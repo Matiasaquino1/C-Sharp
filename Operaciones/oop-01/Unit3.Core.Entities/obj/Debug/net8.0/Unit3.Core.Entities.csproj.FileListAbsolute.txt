@@ -1,0 +1,12 @@
+D:\Curso-UTN\course-dotnet\Unit3\oop-01\Unit3.Core.Entities\bin\Debug\net8.0\Unit3.Core.Entities.deps.json
+D:\Curso-UTN\course-dotnet\Unit3\oop-01\Unit3.Core.Entities\bin\Debug\net8.0\Unit3.Core.Entities.dll
+D:\Curso-UTN\course-dotnet\Unit3\oop-01\Unit3.Core.Entities\bin\Debug\net8.0\Unit3.Core.Entities.pdb
+D:\Curso-UTN\course-dotnet\Unit3\oop-01\Unit3.Core.Entities\obj\Debug\net8.0\Unit3.Core.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso-UTN\course-dotnet\Unit3\oop-01\Unit3.Core.Entities\obj\Debug\net8.0\Unit3.Core.Entities.AssemblyInfoInputs.cache
+D:\Curso-UTN\course-dotnet\Unit3\oop-01\Unit3.Core.Entities\obj\Debug\net8.0\Unit3.Core.Entities.AssemblyInfo.cs
+D:\Curso-UTN\course-dotnet\Unit3\oop-01\Unit3.Core.Entities\obj\Debug\net8.0\Unit3.Core.Entities.csproj.CoreCompileInputs.cache
+D:\Curso-UTN\course-dotnet\Unit3\oop-01\Unit3.Core.Entities\obj\Debug\net8.0\Unit3.Core.Entities.sourcelink.json
+D:\Curso-UTN\course-dotnet\Unit3\oop-01\Unit3.Core.Entities\obj\Debug\net8.0\Unit3.Core.Entities.dll
+D:\Curso-UTN\course-dotnet\Unit3\oop-01\Unit3.Core.Entities\obj\Debug\net8.0\refint\Unit3.Core.Entities.dll
+D:\Curso-UTN\course-dotnet\Unit3\oop-01\Unit3.Core.Entities\obj\Debug\net8.0\Unit3.Core.Entities.pdb
+D:\Curso-UTN\course-dotnet\Unit3\oop-01\Unit3.Core.Entities\obj\Debug\net8.0\ref\Unit3.Core.Entities.dll
