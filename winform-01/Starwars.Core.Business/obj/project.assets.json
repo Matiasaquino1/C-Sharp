@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Starwars.Core.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Starwars.Core.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Starwars.Core.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Starwars.Core.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Starwars.Core.Entities/Starwars.Core.Entities.csproj",
+      "msbuildProject": "../Starwars.Core.Entities/Starwars.Core.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "D:\\C-Sharp\\winform-01\\Starwars.Core.Business.Interfaces\\Starwars.Core.Business.Interfaces.csproj",
+      "Starwars.Core.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C-Sharp\\winform-01\\Starwars.Core.Business\\Starwars.Core.Business.csproj",
+      "projectName": "Starwars.Core.Business",
+      "projectPath": "D:\\C-Sharp\\winform-01\\Starwars.Core.Business\\Starwars.Core.Business.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "D:\\C-Sharp\\winform-01\\Starwars.Core.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\C-Sharp\\winform-01\\Starwars.Core.Business.Interfaces\\Starwars.Core.Business.Interfaces.csproj": {
+              "projectPath": "D:\\C-Sharp\\winform-01\\Starwars.Core.Business.Interfaces\\Starwars.Core.Business.Interfaces.csproj"
+            },
+            "D:\\C-Sharp\\winform-01\\Starwars.Core.Entities\\Starwars.Core.Entities.csproj": {
+              "projectPath": "D:\\C-Sharp\\winform-01\\Starwars.Core.Entities\\Starwars.Core.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "No se encuentra información del proyecto para \"D:\\C-Sharp\\winform-01\\Starwars.Core.Business.Interfaces\\Starwars.Core.Business.Interfaces.csproj\". Si está usando Visual Studio, puede deberse a que el proyecto no se haya cargado o no forme parte de la solución actual, por lo que debe ejecutar una restauración desde la línea de comandos. De lo contrario, puede que el archivo del proyecto no sea válido o que falten destinos necesarios para la restauración.",
+      "libraryId": "D:\\C-Sharp\\winform-01\\Starwars.Core.Business.Interfaces\\Starwars.Core.Business.Interfaces.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "qopIplZVwr4=",
+  "success": false,
+  "projectFilePath": "D:\\C-Sharp\\winform-01\\Starwars.App\\Starwars.App.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "No se encuentra información del proyecto para \"D:\\C-Sharp\\winform-01\\Starwars.Core.Business.Interfaces\\Starwars.Core.Business.Interfaces.csproj\". Si está usando Visual Studio, puede deberse a que el proyecto no se haya cargado o no forme parte de la solución actual, por lo que debe ejecutar una restauración desde la línea de comandos. De lo contrario, puede que el archivo del proyecto no sea válido o que falten destinos necesarios para la restauración.",
+      "libraryId": "D:\\C-Sharp\\winform-01\\Starwars.Core.Business.Interfaces\\Starwars.Core.Business.Interfaces.csproj",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

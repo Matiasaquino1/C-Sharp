@@ -1,0 +1,12 @@
+D:\C-Sharp\winform-01\Starwars.Core.Entities\bin\Debug\net8.0\Starwars.Core.Entities.deps.json
+D:\C-Sharp\winform-01\Starwars.Core.Entities\bin\Debug\net8.0\Starwars.Core.Entities.dll
+D:\C-Sharp\winform-01\Starwars.Core.Entities\bin\Debug\net8.0\Starwars.Core.Entities.pdb
+D:\C-Sharp\winform-01\Starwars.Core.Entities\obj\Debug\net8.0\Starwars.Core.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\winform-01\Starwars.Core.Entities\obj\Debug\net8.0\Starwars.Core.Entities.AssemblyInfoInputs.cache
+D:\C-Sharp\winform-01\Starwars.Core.Entities\obj\Debug\net8.0\Starwars.Core.Entities.AssemblyInfo.cs
+D:\C-Sharp\winform-01\Starwars.Core.Entities\obj\Debug\net8.0\Starwars.Core.Entities.csproj.CoreCompileInputs.cache
+D:\C-Sharp\winform-01\Starwars.Core.Entities\obj\Debug\net8.0\Starwars.Core.Entities.sourcelink.json
+D:\C-Sharp\winform-01\Starwars.Core.Entities\obj\Debug\net8.0\Starwars.Core.Entities.dll
+D:\C-Sharp\winform-01\Starwars.Core.Entities\obj\Debug\net8.0\refint\Starwars.Core.Entities.dll
+D:\C-Sharp\winform-01\Starwars.Core.Entities\obj\Debug\net8.0\Starwars.Core.Entities.pdb
+D:\C-Sharp\winform-01\Starwars.Core.Entities\obj\Debug\net8.0\ref\Starwars.Core.Entities.dll
